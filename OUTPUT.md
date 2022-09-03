@@ -4,7 +4,7 @@ We used to play the cricket game as children using a book ([Book Cricket](https:
 
 I made this single-player game with the same logic in mind. To hit the ball, the user must enter '1'. The programme then assigns a random score to the ball. After each hit, the user can view his or her scorecard. The user can also set overs to play.
 
-You can view the result as shown below when you execute the main.py(main.py) file on your device.
+You can view the result as shown below when you execute the [main.py](main.py) file on your device.
 
 ```
 == Welcome to the Cricket Game ==
@@ -109,4 +109,4 @@ Final Scorecard : 18/1 | 2.0
 Game Over.
 ```
 
-Go to Repository.
+Go to [Repository](https://github.com/chiragkumargohil/cricket-game.git).
